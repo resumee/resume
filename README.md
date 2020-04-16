@@ -10,9 +10,9 @@
 One day, my college senior told me to apply for a job at Google, and when I saw the selection page, I was shocked! He said, “Write a “resume” in English and turn it in! What’s a “resume”? You mean the ones they hand out in college? I heard from a follower that it was a text written by LaTeX! So for friends who can only write Markdown like me, I’ve started a job to render it to look like it!
 
 ## EXPERIENCE
-- Forked this repository to your GitHub.
-- Edit this file and commit to your master branch.
-- Accessed to ```https://resumee.work/<GitHubUserName>```
+- Forked [this repository](https://github.com/resumee/resume) to your GitHub.
+- Edit README.md and commit to your master branch.
+- Accessed to `https://resumee.work/<GitHubUserName>`.
 - Shared your Resumee link with your followers.
 
 ## LEADERSHIP
