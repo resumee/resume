@@ -2,7 +2,7 @@
 # RESUMEE WORK
 <!-- 次の見出しまでに書いたことがセンタリングして表示されます -->
 <!-- 電話番号やメールアドレスなどの連絡先を書きましょう -->
-[Twitter](https://twitter.com/nontan_univ) † [Github](https://github.com/nontan18/resumee)  
+[Twitter](https://twitter.com/nontan_univ) † [GitHub](https://github.com/nontan18/resumee)  
 [https://resumee.work](https://resumee.work)  
 (+81)01-2344-6789 † resumee.work@ruskinics.com  
 
@@ -10,13 +10,13 @@
 One day, my college senior told me to apply for a job at Google, and when I saw the selection page, I was shocked! He said, “Write a “resume” in English and turn it in! What’s a “resume”? You mean the ones they hand out in college? I heard from a follower that it was a text written by LaTeX! So for friends who can only write Markdown like me, I’ve started a job to render it to look like it!
 
 ## EXPERIENCE
-- Forked this repository.
-- Edit README.md and commit to your master branch.
-- Accessed to ```https://resumee.work/<GitHubUserName>```.
-- Vied your resume
+- Forked this repository to your GitHub.
+- Edit this file and commit to your master branch.
+- Accessed to ```https://resumee.work/<GitHubUserName>```
+- Shared your Resumee link with your followers.
 
 ## LEADERSHIP
-[I’m doing some Markdown proselytizing on Github!](https://github.com/nontan18/resumee) Unfortunately, I’m still the only contributor, but I think true leadership is to keep fighting for what you believe in, even if it’s just one person!
+[I’m doing some Markdown proselytizing on GitHub!](https://github.com/nontan18/resumee) Unfortunately, I’m still the only contributor, but I think true leadership is to keep fighting for what you believe in, even if it’s just one person!
 
 ## TECHNICAL STRENGTH
 **Programming Languages**   Typescript 3.7, Markdown  
