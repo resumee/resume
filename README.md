@@ -12,7 +12,7 @@ One day, my college senior told me to apply for a job at Google, and when I saw 
 ## EXPERIENCE
 - Forked [this repository](https://github.com/resumee/resume) to your GitHub.
 - Edit README.md and commit to your master branch.
-- Accessed to [https://resumee.work/<GitHubUserName>](https://resumee.work/resumee).
+- Accessed to `https://resumee.work/<GitHubUserName>`(ex: https://resumee.work/resumee).
 - Shared your Resumee link with your followers.
 
 ## LEADERSHIP
